@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/samuelfm0879/DevopsPro/_apis/build/status%2Fvrokem.Gitapp?branchName=master)](https://dev.azure.com/samuelfm0879/DevopsPro/_build/latest?definitionId=7&branchName=master)
