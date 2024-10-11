@@ -17,5 +17,5 @@ jobs:
           uses: Azure/pipelines@v1
           with:
             azure-devops-project-url: https://dev.azure.com/samuelfm0879/DevopsPro
-            azure-pipeline-name: 'vrokem.Gitapp'
+            azure-pipeline-name: 'webapp'
             azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
