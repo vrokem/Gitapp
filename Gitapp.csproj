@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include=".GitHu\WorkFlows\Workflows.yml" />
+  </ItemGroup>
+
 </Project>
